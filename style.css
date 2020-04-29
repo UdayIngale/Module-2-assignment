@@ -1,27 +1,30 @@
-
 * {
     margin: 0px;
     padding: 0px;
 }
-body {
-    margin: 0px;
-    padding: 0px;
-    margin-top: 0px;
-    background-color: #61122f;
+
+.top_img {
+    background-image: url(bg.png);
+    height: 570px;
+    width: 100%;
+    background-size: 100%;
 }
-.title {
-    margin: 0px;
-    padding: 0px;
-    background-color: darkgoldenrod;
-    height: 125px;
+.header {
+    height: 150px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 h1 {
-    color: darkgreen;
-    line-height: 2cm;
-    margin-left: 20px;
-    font-weight: bolder;   
+    color: whitesmoke;
+    line-height: 3cm;
+    margin-left: 1cm;
+    text-shadow: black;
+    font-weight: 700;
 }
-
-.para {
-    margin-top: 20cm;
+.button {
+    margin-top: 200px;
+    
+    background-color: thistle;
+    width: fit-content;
+    text-align: center;
 }
