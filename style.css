@@ -21,7 +21,7 @@
 }
 .head {
     margin-left: 10px;
-    font-size: 50px;
+    font-size: 40px;
     color: lightgray;
     font-weight: 900;  
 }
@@ -43,4 +43,40 @@
 .navbar-header ul li:hover {
     color: orange;
     cursor: pointer;
+}
+.text {
+    text-align: center;
+    
+}
+.container {
+    margin-top: 150px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container input[type = "text"], .box input[type = "password"] {
+    margin-top: 10px;
+    text-align: center;
+    border: 0;
+    background: none;
+    border: 4px solid #3734db;
+    padding: 14px 10px;
+    width: 450px;
+    outline: none;
+    color: white;
+}
+
+    
+
+#bt1 {
+    text-align: center;
+    cursor: pointer;
+    background-color: royalblue;
+    font-size: 15px;
+    font-weight: 750;
+    text-transform: uppercase;
+    width: 120px;
+    line-height: 40px;
+    margin-top: 15px;
 }
