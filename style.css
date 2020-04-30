@@ -38,7 +38,7 @@
     
 }
 label {
-    margin-right: 75px;
+    margin-right: 0px;
     font-size: 25px;
     display: none;
 }
@@ -127,5 +127,8 @@ label {
     .top_img {
         width: 100%;
 
+    }
+    .navbar-header {
+        margin-right: 75px;
     }
 }
