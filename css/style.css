@@ -208,14 +208,17 @@ label {
   @media screen and (max-width: 720px) {
     .col1 {
         width: 100%;
+        overflow: scroll;
         
     }
     .col2 {
         width: 100%;
+        overflow: scroll;
        
     }
     .col3 {
         width: 100%;
+        overflow: scroll;
        
     }
 
