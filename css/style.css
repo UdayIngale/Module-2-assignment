@@ -14,7 +14,7 @@ h1{
     position: relative;
 }
 p {
-    padding: 5px;   
+    padding: 10px;   
 }
 @media (min-width: 992px){
 .col-lg-4 {
@@ -43,12 +43,17 @@ span {
 #t1 {
     background-color: rgb(250, 150, 150);
     color: rgb(0, 0, 0);
+    border: 2px solid black;
 }
 #t2 {
     background-color: rgb(250, 0, 0);
     color: rgb(250, 250, 250);
+    border: 2px solid black;
 }
+
 #t3 {
     background-color: rgb(200, 200, 100);
     color: rgb(0, 0, 0);
+    border: 2px solid black;
+}s
 }
