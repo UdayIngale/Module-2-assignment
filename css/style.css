@@ -194,13 +194,16 @@ label {
   }
   @media screen and (max-width: 940px) {
     .col1 {
-      width: 45%;
+        width: 45%;
+        overflow: scroll;
     }
     .col2 {
         width: 45%;
+        overflow: scroll;
     }
     .col3 {
         width: 93%;
+        overflow: scroll;
     }
   
    
