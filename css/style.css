@@ -97,7 +97,7 @@ label {
     margin-top: 15px;
 }
 
-@media only screen and (max-width: 940px) {
+@media only screen and (max-width: 991px) {
     label{
         display: block;
         cursor: pointer;
@@ -192,7 +192,7 @@ label {
   
       
   }
-  @media screen and (max-width: 940px) {
+  @media screen and (max-width: 991px) {
     .col1 {
         width: 45%;
         overflow: scroll;
@@ -208,7 +208,7 @@ label {
   
    
   }
-  @media screen and (max-width: 720px) {
+  @media screen and (max-width: 764px) {
     .col1 {
         width: 100%;
         overflow: scroll;
